@@ -1,6 +1,6 @@
 # GoodLuck Restaurants
 ## Description
-    Very interactive restaurant script that allows you to set as many cooking locations as you want around the island and limit those locations to a specific whitelisted job. Depending on if you fail some skill checks, management of the temperature and cook time you will receive lower quality/grade of food and if you fail enough you will receive ruined food (or whatever you want to set it to). There is also benefits to a person cooking in bulks but doing so is also more risky due to possibility of wasting more ingredients on lower quality food.
+Very interactive restaurant script that allows you to set as many cooking locations as you want around the island and limit those locations to a specific whitelisted job. Depending on if you fail some skill checks, management of the temperature and cook time you will receive lower quality/grade of food and if you fail enough you will receive ruined food (or whatever you want to set it to). There is also benefits to a person cooking in bulks but doing so is also more risky due to possibility of wasting more ingredients on lower quality food.
 ## How it Works
 - Cooking Food
 - Mixing Drinks
