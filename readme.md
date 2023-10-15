@@ -1,6 +1,8 @@
 # GoodLuck Restaurants
-
 ## How it Works
+- Cooking Food
+- Mixing Drinks
+### Cooking Food
 1. Picking a recipe by doing /recipebook <pagenumber> (Ex. /recipebook 1)
     - This shows all the available recipes for the given job you are employed with
     - This the recipes are set in the config per whitelisted job
@@ -10,4 +12,13 @@
 2. Pick the amount of the food you want to cook
     - Cooking in bulk can reward extra of the food per 5 cooked and skill checks hit during cooking
 
-    <img src="https://i.imgur.com/boZpalM.jpg" height="300">
+    <img src="https://i.imgur.com/e9hlBUC.jpg" height="300">
+
+4. Combining Ingredients
+
+    <video height="300" controls>
+        <source src="https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+### Mixing Drinks
