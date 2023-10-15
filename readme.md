@@ -16,6 +16,6 @@
 
 4. Combining Ingredients
 
-   ![https://i.imgur.com/fGy6ep5.jpg](https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4)
+   ![https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4](https://i.imgur.com/fGy6ep5.jpg)
 
 ### Mixing Drinks
