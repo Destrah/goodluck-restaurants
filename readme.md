@@ -16,9 +16,6 @@
 
 4. Combining Ingredients
 
-    <video height="300" controls>
-        <source src="https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <video src='https://i.gyazo.com/6c5a091327e59190ea76d103b2656e87.mp4' height=300></video>
 
 ### Mixing Drinks
