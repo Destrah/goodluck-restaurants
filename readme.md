@@ -27,6 +27,6 @@ Very interactive restaurant script that allows you to set as many cooking locati
 
 5. Cooking Food
 
-    [![Cooking Food Image](https://i.imgur.com/Qzh4jQb.png)](https://gyazo.com/2549f91e073ad4b7c633c5e0b38a9eb9.mp4) ^Click for short video^
+    [![Cooking Food Image](https://i.imgur.com/Qzh4jQb.png) height="300"](https://gyazo.com/2549f91e073ad4b7c633c5e0b38a9eb9.mp4) ^Click for short video^
 
 ### Mixing Drinks
