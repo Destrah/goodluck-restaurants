@@ -23,12 +23,16 @@ Very interactive restaurant script that allows you to set as many cooking locati
 
 4. Combining Ingredients
 
-   [![Combining Ingredients Image](https://i.imgur.com/fGy6ep5.jpg)](https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4) ^Click for short video^
+   <a href="https://i.gyazo.com/f5148736f56b2918872f6953a4526602.mp4">
+      <img src="https://i.imgur.com/Qzh4jQb.png"  height="300"></img>
+    </a>
+    ^Click for short video^
 
 5. Cooking Food
 
    <a href="https://gyazo.com/2549f91e073ad4b7c633c5e0b38a9eb9.mp4">
       <img src="https://i.imgur.com/Qzh4jQb.png"  height="300"></img>
     </a>
+    ^Click for short video^
 
 ### Mixing Drinks
